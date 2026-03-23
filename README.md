@@ -37,4 +37,4 @@ To build tech solutions that solve real-world problems and create meaningful imp
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namrataa16)
+

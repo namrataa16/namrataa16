@@ -25,8 +25,7 @@ To build tech solutions that solve real-world problems and create meaningful imp
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </p>
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namrataa16&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namrataa16&show_icons=true&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataa16&layout=compact" width="45%" />
@@ -37,4 +36,4 @@ To build tech solutions that solve real-world problems and create meaningful imp
   <img src="https://streak-stats.demolab.com?user=namrataa16" width="60%" />
 </p>
 
-https://github-readme-stats.vercel.app/api?username=namrataa16&show_icons=true&theme=tokyonight
+
